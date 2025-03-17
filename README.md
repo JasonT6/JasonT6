@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jason</h1>
-<h2>4th Year Computer Engineering + AI Minor Student @ University of Toronto</h2>
+<h3>4th Year Computer Engineering + AI Minor Student @ University of Toronto</h3>
 
 - 🔭 I’m currently working on **A new fullstack app**
 
