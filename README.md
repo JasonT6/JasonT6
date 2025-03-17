@@ -7,7 +7,10 @@
 
 - 👨‍💻 I’m currently working at **AMD**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+
+[LinkedIn](https://www.linkedin.com/in/jason-tai/)
+
 <p align="left">
 </p>
 
