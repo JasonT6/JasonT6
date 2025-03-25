@@ -36,7 +36,7 @@ A command-line-interface group-chat and direct-message program made from scratch
 
 <details>
 <summary><b>AwareAI</b></summary>
-A custom AI model for single-camera object detection and distance estimator to help the visually impaired
+A custom AI model for single-camera object detection and distance estimator to help the visually impaired (inspired by the K-drama Start-Up)
 </details>
 
 <details>
