@@ -40,6 +40,11 @@ A custom AI model for single-camera object detection and distance estimator to h
 </details>
 
 <details>
+<summary><b>Map Application</b></summary>
+A map application built in C++ complete with navigation
+</details>
+
+<details>
 <summary><b>Bubble-Dragon-Game</b></summary>
 A 2D platformer game with single-player and multiplayer, built in C, meant to be run on an Intel FPGA DE1-SoC board
 </details>
