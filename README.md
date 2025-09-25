@@ -20,8 +20,8 @@
 <h2>My Favorite Projects</h2>
 
 <details>
-<summary><b>FullStack App</b></summary>
-A new full-stack app currently under development
+<summary><b>Queue-Up</b></summary>
+iOS app that serves as a modern-day "third space" for people to find friends and find things to do
 </details>
 
 <details>
