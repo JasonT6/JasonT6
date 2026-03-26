@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Jason</h1>
 <h3>4th Year Computer Engineering + AI Minor Student @ University of Toronto</h3>
 
-- 🔭 I’m currently working on **A new fullstack app** [Queue-Up](https://queue-up-two.vercel.app/)
+- 🔭 I’m currently working on **A local RAG memory notes app**
+
+- 🔭 I also working on **A new fullstack app** [Queue-Up](https://queue-up-two.vercel.app/)
 
 - 🌱 I’m currently learning **React-Native and kernel mode GPU drivers**
 
