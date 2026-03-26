@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A local RAG memory notes app**
 
-- 🔭 I also working on **A new fullstack app** [Queue-Up](https://queue-up-two.vercel.app/)
+- 🔭 I'm also working on **A new fullstack app** [Queue-Up](https://queue-up-two.vercel.app/)
 
 - 🌱 I’m currently learning **React-Native and kernel mode GPU drivers**
 
